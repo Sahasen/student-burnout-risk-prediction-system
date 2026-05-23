@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 """
 BurnoutGuard — Flask Backend (Final Version)
 Changes vs previous:
@@ -674,7 +674,6 @@ if __name__=='__main__':
     init_db(); load_model(); scheduler.start()
     print('[APP] Server -> http://127.0.0.1:5000')
     app.run(debug=False,host='0.0.0.0',port=5000)
-=======
 """
 BurnoutGuard — Flask Backend (Final Version)
 Changes vs previous:
@@ -1350,4 +1349,3 @@ if __name__=='__main__':
     init_db(); load_model(); scheduler.start()
     print('[APP] Server -> http://127.0.0.1:5000')
     app.run(debug=False,host='0.0.0.0',port=5000)
->>>>>>> 46ff5edfc5456782f016ac244b2a3904e6164e37
