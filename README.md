@@ -4,8 +4,8 @@
 
 > Student burnout is a growing mental health crisis in Indian universities. BurnoutGuard provides early detection through machine learning, explainability through SHAP, and actionable recovery plans.
 
-**Project:** RV University — BTech CSE Final Year (4 Credits)  
-**Student:** Nandini | **Year:** 2024–25  
+**Project:** RV University — BTech CSE Third Year (4 Credits)  
+**Student:** Sahanaa M S | **Year:** 2025–26
 **Status:** ✅ Complete & Production-Ready
 
 ---
@@ -731,15 +731,14 @@ This project is licensed under the **MIT License** — see LICENSE file for deta
 
 ## 👤 Author & Contact
 
-**Student:** Nandini  
+**Student:** Sahanaa M S 
 **Institution:** RV University, Bangalore  
-**Project Year:** 2024-25  
-**Project Code:** BTech CSE Final Year (4 Credits)
+**Project Year:** 2025-26 
+**Project Code:** BTech CSE Third Year (4 Credits)
 
 **Questions or Feedback?**
-- 📧 Email: [Your Email]
-- 🔗 GitHub: [Your GitHub Profile]
-- 💼 LinkedIn: [Your LinkedIn]
+- 📧 Email: sahasen2005@gmail.com
+  
 
 ---
 
@@ -761,6 +760,6 @@ This project is licensed under the **MIT License** — see LICENSE file for deta
 
 ---
 
-**Last Updated:** April 2025  
+**Last Updated:** May 2026  
 **Status:** ✅ Complete & Production-Ready
 4. Pedregosa et al. (2011). Scikit-learn: Machine learning in Python. *JMLR, 12*, 2825–2830.
